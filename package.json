@@ -24,7 +24,7 @@
     "@angular/service-worker": "^6.0.0",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.24",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
